@@ -3,7 +3,7 @@
 
 ## About Our Work
 
-Update: 2025/01/22: We have created a repository for the paper titled *Unveiling Discrete Clues: Superior Healthcare Predictions for Rare Diseases*, which has been accepted by the *WWW 2025*. In this repository, we offer the original sample datasets, preprocessing scripts, and algorithm files to showcase the reproducibility of our work.
+Update: 2025/01/22: We have created a repository for the paper titled *Unveiling Discrete Clues: Superior Healthcare Predictions for Rare Diseases*(https://arxiv.org/abs/2501.16373), which has been accepted by the *WWW 2025*. In this repository, we offer the original sample datasets, preprocessing scripts, and algorithm files to showcase the reproducibility of our work.
 
 ![image-20241006134559836](https://s2.loli.net/2024/10/06/3Fwd6mni7sA8ft1.png)
 
